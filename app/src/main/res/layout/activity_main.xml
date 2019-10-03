@@ -39,6 +39,7 @@
         android:layout_width="214dp"
         android:layout_height="58dp"
         android:layout_marginBottom="117dp"
+        android:onClick="ejecutar_segundo_activity"
         android:text="Siguente"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
